@@ -14,8 +14,8 @@ Usage of Instax for attacking targets without prior mutual consent is illegal. I
 
 ### Usage:
 ```
-git clone https://github.com/neyrod729/instax.git
-cd instax
+git clone https://github.com/neyrod729/neyrod.git
+cd nayrod
 chmod +x instax.sh
 service tor start
 bash instax.sh
